@@ -2,7 +2,7 @@
 Turn based NFT game similar to Axie Infinity. This repo contains the front end only. See the other repo for the contract back end. <i>Inspired by a Buildspace project.</i> 
 
 ## Try it out
-The front end is hosted on Replit: https://nft-game-starter-project-11.qianwang10.repl.co/ <br/>
+The front end is hosted on Replit: https://nft-game-demo-1.qianwang10.repl.co/ <br/>
 You need to have a MetaMask wallet and set up an account on the Goerli Testnet, where this project is launched on.
 
 ## User Interface
